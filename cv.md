@@ -24,7 +24,13 @@ Hello, I am a beginner front-end developer. Unfortunately I do not have extensiv
 *Write a function "greet" that returns "Hello world!"*
 
 ```javascript
-
+function evenOrOdd(number) {
+  if (number % 2 === 0) {
+    return 'Even'
+  } else {
+    return 'Odd'
+  }
+}
 ```
 ---
 ## Education and courses 
