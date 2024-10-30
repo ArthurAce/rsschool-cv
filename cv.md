@@ -2,7 +2,7 @@
 ### Junior Front-End Developer
 ---
 ## Contacts  
-**Location** Ukrain  
+**Location** Ukraine  
 **Phone:** +380938468356  
 **E-mail:** [forceaceflash@gmail.com](forceaceflash@gmail.com)  
 **GitHub:** [ArthurAce](https://github.com/ArthurAce)
@@ -30,10 +30,10 @@ Hello, I am a beginner front-end developer. Unfortunately I do not have extensiv
 ## Education and courses 
 ### Udemy  
 - HTML and Css  
-- JavaScript + React  
+- JavaScript + React (in progress)  
 - JavaScript practic advanced level
 ### RSSchool  
-- JavaScript/Front-end
+- JavaScript/Front-end (JS/FE Pre-School 2024Q2)
 
 ---  
 ## Languages
