@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #5ec2fc;
+    
+}
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 100px  0 auto;
+}
+
+p {
+    margin-right: 50px;
+}
+button {
+    padding: 5px;
+}
