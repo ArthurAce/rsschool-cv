@@ -1,8 +1,20 @@
-Full Name
-Contact Information
-Brief Self-Introduction (your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills)
-Skills (programming languages, frameworks, methodologies, version control systems, and development tools you are proficient in)
-Code Examples
-Work Experience (Junior Devs can list educational projects with the skills used and links to the source code)
-Education (including completed courses and training)
-English Language (your English proficiency level, and if you had language practice, describe it)
+# Arthur Milin
+![Arthur Milin](![photo_2026-01-17_21-05-48](https://github.com/user-attachments/assets/65c77546-b05a-46d2-8ab9-155cdf2c26af))
+
+### Junior Front-End Developer
+---
+## Contacts  
+**Location** Ukraine  
+**Phone:** +380938468356  
+**E-mail:** [forceaceflash@gmail.com](forceaceflash@gmail.com)  
+**GitHub:** [ArthurAce](https://github.com/ArthurAce)
+
+---
+## Skills
+- HTML, CSS  
+- JavaScript  
+- GitHub (Git)  
+- Photoshop, Figma, CorelDraw
+- VSCode
+
+---
