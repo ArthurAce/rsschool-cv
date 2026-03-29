@@ -77,7 +77,7 @@ li {
     margin: 10px auto;
 }
 
-h3 {
+.subtitle {
     font-size: 14px;
     color: rgb(186, 188, 190);
     margin-left: 10px;
@@ -103,7 +103,7 @@ code, pre {
     background-color: #f5f1f1  ;
 }
 
-h4 {
+.projects__link {
     margin-left: 15px;
     margin-bottom: 5px;
 }
