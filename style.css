@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    margin: 0 auto;
+    width: 1000px;
+    height: 100vh;
+    display: flex;
+    padding: 10px 0;
+}
+
+aside {
+    width: 350px;
+    height: 100vh;
+    background-color: #f5f1f1;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 20px;
+    align-items: center;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    width: 650px;
+    height: 100vh;
+    margin-left: 20px;
+    padding: 15px 15px;
+}
+
+.photo {
+    position: relative;
+    width: 70%;
+    height: 40%;
+    margin-left: -69px;
+}
+
+img {
+    position: relative;
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+
+}
+
+.contacts {
+    position: relative;
+}
+
+footer {
+    max-width: 60vw;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    padding: 0 105px;
+    margin-top: 15px;
+}
+
+.line {
+   height: 2px;
+   width: 100%;
+   color: rgb(186, 188, 190);
+   border: 1px solid rgb(186, 188, 190);
+   margin-top: 10px;
+}
+
+ul {
+    list-style-type: square;
+    margin: 0px 0px 0px 35px;
+}
+
+li {
+    margin: 10px auto;
+}
+
+.subtitle {
+    font-size: 14px;
+    color: rgb(186, 188, 190);
+    margin-left: 10px;
+}
+
+h2 {
+    margin: 20px 0 10px 10px;
+}
+
+h1 {
+    margin-left: 10px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color:aqua;
+}
+
+code, pre {
+    background-color: #f5f1f1  ;
+}
+
+.projects__link {
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+.github, .year, .rsschool {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.logo {
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+}
